@@ -700,6 +700,7 @@ img {
 .project__bg {
     background-color: var(--first-color);
     padding-top: 3rem;
+    padding-bottom: 3rem;
 }
 
 .project__title {
